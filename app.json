@@ -1,4 +1,5 @@
 {
+  "name": "main",
   "expo": {
     "name": "Dog Treat Dispenser UI",
     "slug": "dog-treat-dispenser-ui",
